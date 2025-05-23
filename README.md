@@ -212,7 +212,7 @@ Resposta: "Soja, milho, trigo, carne bovina e leite."
 Pergunta: "Fale sobre Rio Verde"
 Resposta: "Rio Verde é uma cidade importante para o agronegócio brasileiro, conhecida por sua produção agrícola e pecuária, e sede de importantes instituições de ensino superior."
 
-Criado por: Uender Carlos e Alcídia Cristina
+Criado por: [Seu Nome]
 Data: Maio 2025
 Hackathon: NVIDIA Agent Toolkit 2025
 Status: ✅ 100% FUNCIONANDO
